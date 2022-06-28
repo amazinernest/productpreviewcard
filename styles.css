@@ -75,6 +75,7 @@ button {
   background: hsl(158, 36%, 37%);
   border: none;
   margin-top: 20px;
+  margin-bottom: 20px;
   width: 260px;
   height: 30px;
   color: #fff;
