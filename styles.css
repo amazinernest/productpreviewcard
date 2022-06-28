@@ -23,7 +23,7 @@ body {
   height: 300px;
   background: #fff;
   border-radius: 0 10px 10px 0;
-  padding: 20px;
+  padding: 25px;
 }
 
 img {
@@ -74,7 +74,7 @@ p {
 button {
   background: hsl(158, 36%, 37%);
   border: none;
-  margin-top: 25px;
+  margin-top: 20px;
   width: 260px;
   height: 30px;
   color: #fff;
